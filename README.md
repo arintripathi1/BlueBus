@@ -1,2 +1,0 @@
-# BlueBus
-Bus Management System
